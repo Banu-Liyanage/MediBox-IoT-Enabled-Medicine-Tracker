@@ -1,0 +1,19 @@
+[
+    {
+        "id": "67fd450a.45bd9c",
+        "type": "debug",
+        "z": "e8c82f2b.03dcc",
+        "name": "Light Intensity Debug",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 410,
+        "y": 160,
+        "wires": []
+    }
+]
